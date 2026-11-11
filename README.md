@@ -142,12 +142,12 @@ erDiagram
 
 
 <p align="center">
-  <img src="public/assets/3.png" width="100%" alt="Route">
+  <img src="public/asset/3.png" width="100%" alt="Route">
 </p>
 
 
 <p align="center">
-  <img src="public/assets/4.png" width="100%" alt="Fleet">
+  <img src="public/asset/4.png" width="100%" alt="Fleet">
 </p>
 
 
